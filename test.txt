@@ -4,3 +4,9 @@ EAST NORMAL UNIVERSITY IS A good university
  I think is good for us to study well to entrance the university
 
 this is postgresql not mysql
+
+this is python script below
+import random  as r
+
+for i in range(10):
+    print(r.random())
