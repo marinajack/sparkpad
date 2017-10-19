@@ -3,4 +3,5 @@ this is the best UNIVEISITY i have never seen before!
 EAST NORMAL UNIVERSITY IS A good university
  I think is good for us to study well to entrance the university
 
- this is mysql 
+
+this is postgresql not mysql
